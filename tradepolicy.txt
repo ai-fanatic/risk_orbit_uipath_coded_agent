@@ -1,0 +1,142 @@
+───────────────────────────────────────────────────────────────
+GLOBAL TRADE POLICY REVIEW – NOVEMBER 2025 EDITION
+───────────────────────────────────────────────────────────────
+Page 1 of 5
+
+SECTION A – ASIA-PACIFIC REGULATORY UPDATES
+───────────────────────────────────────────────
+1. INDIA – NEW FOREIGN TRADE POLICY (FTP 2025-2030)
+   Announced on November 5 2025 by the Ministry of Commerce and Industry.  
+   Key Highlights:
+   • Export Promotion Capital Goods (EPCG) scheme extended to green-technology equipment manufacturers.  
+   • Duty credit scripts for hydrogen-energy projects increased from 3% to 5%.  
+   • Mandatory electronic filing for all Letters of Undertaking (LUT) for exports under bond.  
+   • Import restrictions tightened on used electrical machinery to reduce e-waste.  
+   Expected Impact: Boost to renewable-energy exports but slower clearance for used-equipment imports.
+
+2. CHINA – DUAL-USE TECHNOLOGY EXPORT REGULATION REVISION (No. 67/2025)
+   Effective December 1 2025.  
+   Expands the “restricted dual-use” list to include AI-assisted robotic controllers and advanced turbine control software.  
+   Exporters must obtain licensing from the State Administration for Science, Technology and Industry for National Defense (SASTIND).  
+   Non-compliance penalty: Fines up to ¥5 million and suspension of export privileges for two years.  
+   Note: Reactions from EU manufacturers suggest concern over supply chain disruptions in wind energy components.
+
+3. VIETNAM – CIRCULAR 28/2025 ON DIGITAL CUSTOMS INTEGRATION
+   Introduces blockchain-based import clearance for low-risk traders. Each shipment will be assigned a unique Digital Compliance Token (DCT).  
+   The initiative is expected to reduce average customs processing time from 41 hours to 11 hours by mid-2026.  
+   Pilot implementation in Ho Chi Minh and Da Nang ports.
+
+4. SOUTH KOREA – TRADE REMEDIES ACT AMENDMENT (2025)
+   Enables automatic sunset review of anti-dumping duties every five years.  
+   Tariffs on Chinese steel pipes to remain at 12% until the review in 2027.  
+   New “Digital Evidence Docket” allows electronic submission of injury data by domestic manufacturers.
+
+───────────────────────────────────────────────────────────────
+Page 2 of 5
+
+SECTION B – MIDDLE EAST & GCC POLICY CHANGES
+───────────────────────────────────────────────
+1. UNITED ARAB EMIRATES – GREEN TRADE CHARTER (Resolution 14/2025)
+   Adopted October 29 2025 by the Cabinet.  
+   Mandates environmental disclosure for all importers and exporters above AED 10 million annual turnover.  
+   Establishes a “Carbon Disclosure Index” to rank companies participating in the Emirates Green Corridor Program.  
+   Non-compliant firms will see priority clearance revoked and may lose customs rebates.
+
+2. SAUDI ARABIA – GCC INTEGRATION OF TRADE DATABASES
+   Announced jointly with Bahrain and Oman.  
+   A shared Trade Data Interchange Platform (TDIP) goes live January 2026, enabling real-time tracking of certificates of origin and tariff quotas.  
+   The initiative aligns with Vision 2030’s goal to cut paper-based clearances by 90%.  
+   Each member state will harmonize its Standard Import Classification (SIC) codes with the World Customs Organization (WCO).
+
+3. QATAR – STRATEGIC TRADE MODERNIZATION PROGRAM (2025-2028)
+   Focus Areas:
+   • Automation of import licensing via Q-Trade Portal.  
+   • Revised tariff bands for industrial machinery (3–6%).  
+   • Digital risk rating for suppliers based on historical compliance.  
+   • Pilot integration with UiPath-style workflow bots for real-time certificate validation.  
+   Expected Result: Reduction in average port dwell time from 7 to 3 days by 2027.
+
+4. EGYPT – NEW RULES ON FOREIGN CURRENCY PAYMENTS FOR IMPORTS
+   Effective November 22 2025. Importers must settle invoices in the currency of origin unless a central-bank hedging agreement is in place.  
+   Objective: Reduce pressure on foreign-exchange reserves. Likely impact on machinery importers relying on USD-denominated contracts.
+
+───────────────────────────────────────────────────────────────
+Page 3 of 5
+
+SECTION C – EUROPE AND TRANS-ATLANTIC POLICY LANDSCAPE
+───────────────────────────────────────────────
+1. EU – DIGITAL PRODUCT PASSPORT (Directive 2025/44/EU)
+   Enforcement Date: May 2026.  
+   Requires traceability metadata for every industrial component above €500 FOB value.  
+   Each import must include a QR-linked record of materials, energy usage, and labor source.  
+   Violations may lead to administrative fines of up to 3% of annual turnover.  
+   The policy aligns with the EU Circular Economy Action Plan.
+
+2. UNITED KINGDOM – TRADE SIMPLIFICATION ACT 2025
+   Introduces “Trusted Importer Status (TIS)” certificates.  
+   Firms with five-year compliance records receive automatic clearance within four hours of vessel arrival.  
+   12 new bilateral agreements signed with ASEAN partners for mutual recognition of standards.  
+   The policy removes duplicate document requirements for electrical machinery and pharmaceutical goods.
+
+3. UNITED STATES – CLEAN MANUFACTURING INCENTIVE ACT
+   Passed October 2025. Provides tax credits for importers who source from low-carbon manufacturing countries.  
+   Tariff rebates of up to 4% for products with certified emission intensity below baseline.  
+   The Department of Commerce will publish eligible supplier lists quarterly.  
+   Potential benefit for Vietnamese solar and Indian wind component exporters.
+
+4. CANADA – IMPORT CONTROL AMENDMENTS
+   Restricts entry of goods linked to forced labor allegations under Bill S-211.  
+   Importers must provide supplier-auditing evidence and declarations verified by independent agencies.  
+   Violations can lead to shipment detention and revocation of business numbers.
+
+───────────────────────────────────────────────────────────────
+Page 4 of 5
+
+SECTION D – AFRICA AND LATIN AMERICA TRADE POLICY TRENDS
+───────────────────────────────────────────────
+1. KENYA – EAST AFRICAN COMMUNITY (EAC) CUSTOMS TARIFF UPDATE 2025/04
+   Effective November 30 2025. Introduces a Common External Tariff (10%) on imported solar panels below 150 W capacity to protect local assemblers.  
+   Exemption for projects certified under UN Green Power Initiative.  
+   Risk rating: Medium for importers from China and India.
+
+2. SOUTH AFRICA – AUTOMOTIVE TRANSFORMATION PROGRAM
+   Establishes a local content requirement of 45% for EV components to qualify for rebates.  
+   Import licenses for battery cells now limited to entities with carbon-neutral certification.  
+   Expected to reshape supply chain relationships with Korean and Japanese suppliers.
+
+3. BRAZIL – TRADE FACILITATION DECREE 980/2025
+   Digital single window for customs to reduce documentation redundancy.  
+   Duty deferral on AI-powered manufacturing equipment through 2028.  
+   Brazilian Customs to use predictive AI for risk profiling of importers.  
+   Objective: Reduce average clearance time from 5 days to 18 hours by 2027.
+
+4. MEXICO – NORTH AMERICAN SUPPLY-CHAIN REALIGNMENT PLAN
+   Part of the USMCA update negotiations. Mexico will gradually phase out import tariffs on energy-storage systems but add origin-tracing requirements for critical minerals.  
+   Deadline for compliance: July 2026.  
+   Impact Score: Medium for battery suppliers, Low for mechanical equipment importers.
+
+───────────────────────────────────────────────────────────────
+Page 5 of 5
+
+SECTION E – ANALYTICAL SUMMARY FOR AGENT IMPLEMENTATION
+───────────────────────────────────────────────
+► Emerging Themes
+   • Digitalization of trade clearance (Vietnam, Brazil, UK).  
+   • Environmental and social compliance linkages (UAE, Canada, South Africa).  
+   • Tariff realignments for strategic manufacturing (Qatar, India, Kenya).  
+   • Shift toward regional data interchange (Saudi TDIP, EAC platforms).
+
+► Agent Extraction Guidelines
+   1. Detect phrases like “Effective date”, “Decree No.”, “Duty rebate”, “Certification requirement”, “Digital Portal”, “Environmental criterion”.  
+   2. Extract:
+      – Country / Region  
+      – Policy title or identifier  
+      – Sector (energy, manufacturing, logistics)  
+      – Effective date  
+      – Compliance impact (high / medium / low)
+   3. Assign a Trade Policy Risk Index (TPRI) on a 0–100 scale:
+      • > 70 = High uncertainty  
+      • 40–70 = Moderate watchlist  
+      • < 40 = Stable
+
+► Recommended Agent Output Format

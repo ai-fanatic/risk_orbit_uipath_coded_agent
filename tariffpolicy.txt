@@ -1,0 +1,160 @@
+GLOBAL TRADE & TARIFF MONITOR – NOVEMBER 2025 ISSUE
+
+───────────────────────────────────────────────────────────────
+SECTION 1: ASIA-PACIFIC TRADE POLICY UPDATES
+───────────────────────────────────────────────────────────────
+1. Indonesia Ministry of Finance (MoF Regulation No. 115/2025)
+   Effective: November 10, 2025  
+   Description: Indonesia has introduced a revised import duty schedule for
+   industrial machinery and power generation components. Gas turbines,
+   compressors, and control panels classified under HS 8411, 8414, and 8537
+   will now attract a 7% base tariff, up from 5%. 
+   Purpose: To protect domestic fabrication units in Java and Banten.  
+   Impact: All shipments entering through Jakarta Port or Surabaya after the
+   effective date will need updated certificate-of-origin documentation.
+   Notes: Transit shipments dispatched before November 10 remain exempt.
+
+2. Vietnam General Department of Customs Circular 31/2025
+   Effective: November 15, 2025  
+   The Vietnamese government has announced a zero-duty concession on
+   photovoltaic modules, inverters, and racking structures used in solar
+   energy projects larger than 10MW. Importers must file proof of project
+   registration and environmental compliance to qualify for the exemption.
+   The concession will remain valid through December 2027.
+
+3. Philippines Bureau of Customs (BoC Administrative Order 2025-17)
+   Effective: November 12, 2025  
+   All imports of substation equipment exceeding USD 250,000 in declared
+   value are now subject to a risk-based inspection framework.
+   Duties remain unchanged (8%), but customs inspection fees have risen by
+   2% to cover digital scanning and traceability costs.
+   Shipments routed through Manila Port must include E-manifest data within
+   24 hours prior to vessel arrival.
+
+───────────────────────────────────────────────────────────────
+SECTION 2: MIDDLE EAST & AFRICA TRADE NOTICES
+───────────────────────────────────────────────────────────────
+1. Qatar – Ministerial Decree 19/2025
+   Effective: November 20, 2025  
+   Tariff on imported hydraulic pumps and industrial valves increased from 3%
+   to 6%. The measure was introduced following reports of under-invoicing by
+   foreign suppliers. Domestic manufacturers have been granted temporary
+   production subsidies to offset raw material inflation.  
+   Compliance requirement: Certificate of conformity issued by Qatar
+   Standards Authority (QSA).
+
+2. Saudi Arabia Customs Bulletin 88/2025
+   Effective: December 1, 2025  
+   The Kingdom has temporarily suspended duty-free entry for mechanical and
+   electrical components sourced from non-GCC countries.
+   Tariffs of 5–9% now apply to turbine parts (HS 8411.99), compressor
+   elements, and generator stators.  
+   Exception: Goods with at least 40% GCC-origin content continue to qualify
+   for intra-GCC zero duty.
+
+3. United Arab Emirates Federal Customs Circular 32/2025
+   Effective: October 30, 2025  
+   Importers of heavy-duty electrical switchgear must pre-register via the
+   Smart Trade Portal and pay an environmental handling fee of AED 150 per
+   ton.  
+   While the base tariff of 4% remains, failure to provide recyclable-material
+   certification results in a surcharge of 1.5%.  
+   UAE Customs also launched a blockchain-based origin-tracking system,
+   which will be mandatory for all Maersk and MSC cargo by Q2 2026.
+
+4. Egypt Customs Update
+   Effective: November 18, 2025  
+   Egypt introduced a safeguard duty of 10% on imported industrial boilers,
+   citing a sharp increase in low-cost imports from East Asia.
+   The duty will remain in effect for 200 days pending review by the WTO
+   Safeguard Committee.
+
+───────────────────────────────────────────────────────────────
+SECTION 3: EUROPE & NORTH AMERICA
+───────────────────────────────────────────────────────────────
+1. European Commission Regulation 2025/2179
+   Effective: November 1, 2025  
+   The EU reinstated anti-dumping duties (12%) on Chinese-origin aluminum
+   structures used in solar mounting systems.  
+   Additionally, a carbon-adjustment surcharge of €18 per ton applies to all
+   shipments where the supplier’s manufacturing process has a carbon
+   intensity above 1.8 tons of CO₂ per ton of output.  
+   Exemption: Suppliers certified under the EU GreenTech framework.
+
+2. United Kingdom Trade Tariff Notice 45/2025
+   Effective: November 16, 2025  
+   The UK introduced a simplified tariff code for renewable-energy imports.
+   Wind turbine blades (HS 8502.31) now have a reduced tariff rate of 2%,
+   previously 4.5%.  
+   However, electronic control systems (HS 8537) imported from outside
+   approved markets (EU, US, Japan) are now subject to a 6% duty due to
+   cybersecurity certification concerns.
+
+3. United States International Trade Commission (ITC) – Investigation 337-T
+   Preliminary ruling dated: October 25, 2025  
+   Pending anti-circumvention duties on gas compressor assemblies imported
+   from Indonesia and India suspected of being re-routed through Singapore.
+   If confirmed, additional countervailing duties of 8% will apply beginning
+   Q1 2026.
+
+───────────────────────────────────────────────────────────────
+SECTION 4: ANALYTICAL NOTES FOR AGENT RISK CALCULATION
+───────────────────────────────────────────────────────────────
+• The combined impact of the above policy shifts increases landed cost of
+  turbine-related components across Asia by an average of 4.3%.
+
+• For projects sourcing from **China, India, or Indonesia**, the net trade
+  risk is rated **High** due to rising tariff volatility and policy
+  uncertainty.  
+  Recommendation: Hedge purchase orders with FOB-based contracts rather than
+  CIF to minimize liability.
+
+• **Vietnam** and **Singapore** remain low-risk sourcing hubs owing to
+  green-energy incentives and stable tariff regimes.
+
+• The agent should monitor **HS codes 8411, 8414, 8537**, and **8502**
+  specifically, as they correspond to equipment categories used in the
+  current Scheduler dataset.
+
+───────────────────────────────────────────────────────────────
+SECTION 5: ANNEX – RAW TARIFF TABLE (SUMMARY SNAPSHOT)
+───────────────────────────────────────────────────────────────
+| Country        | HS Code | Description                       | Prev Rate | New Rate | Effective Date | Notes                          |
+|----------------|---------|-----------------------------------|------------|----------|----------------|--------------------------------|
+| Indonesia      | 8411    | Gas Turbine Components             | 5%         | 7%       | 10-Nov-2025    | Protect domestic industry       |
+| Vietnam        | 8501    | Solar Inverter Systems             | 3%         | 0%       | 15-Nov-2025    | Renewable exemption             |
+| Qatar          | 8414    | Hydraulic Pumps                    | 3%         | 6%       | 20-Nov-2025    | Local manufacturer support      |
+| Saudi Arabia   | 8411.99 | Turbine Parts (non-GCC origin)     | 0%         | 8%       | 01-Dec-2025    | GCC safeguard                   |
+| EU (general)   | 7308    | Aluminum Solar Mounts              | 8%         | 12%      | 01-Nov-2025    | Anti-dumping                    |
+| UK             | 8502.31 | Wind Turbine Blades                | 4.5%       | 2%       | 16-Nov-2025    | Green import facilitation       |
+| Egypt          | 8402    | Industrial Boilers                 | 5%         | 10%      | 18-Nov-2025    | Temporary safeguard             |
+
+───────────────────────────────────────────────────────────────
+SECTION 6: CONCLUSION & AGENT INSIGHT SUMMARY
+───────────────────────────────────────────────────────────────
+Overall, the tariff environment in late 2025 presents mixed signals:
+• Strong decarbonization-driven incentives in ASEAN markets.  
+• Rising protectionism in GCC and North Africa.  
+• New non-tariff barriers (documentation, digital traceability) are
+  appearing as frequent compliance triggers.
+
+Your Tariff & Trade Agent should:
+1. Detect mentions of “Effective”, “Duty”, “Tariff”, “Surcharge”, “Rate”,
+   “Increase”, or “Exemption”.
+2. Extract:
+   - Country
+   - HS code
+   - Affected product type
+   - Rate change
+   - Date of effect
+3. Compute an estimated **Tariff Risk Index (TRI)** per PO, using country
+   and product mappings from the Scheduler dataset.
+4. Tag each record as:
+   - “Favorable” (tariff reduced or zero-duty)
+   - “Neutral” (no change)
+   - “Unfavorable” (increase or new surcharge)
+5. Pass structured output to the Reporting Agent for visualization.
+
+───────────────────────────────────────────────────────────────
+END OF DOCUMENT
+───────────────────────────────────────────────────────────────

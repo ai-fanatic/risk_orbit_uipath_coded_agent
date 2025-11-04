@@ -1,0 +1,57 @@
+{
+    "entryPoints": [
+        {
+            "filePath": "agent",
+            "uniqueId": "fcd2cd13-a34e-4580-adc3-f5a3c02eb485",
+            "type": "agent",
+            "input": {
+                "type": "object",
+                "properties": {
+                    "topic": {
+                        "title": "Topic",
+                        "type": "string"
+                    },
+                    "retrieved_context": {
+                        "default": [],
+                        "items": {
+                            "type": "string"
+                        },
+                        "title": "Retrieved Context",
+                        "type": "array"
+                    }
+                },
+                "required": [
+                    "topic"
+                ]
+            },
+            "output": {
+                "type": "object",
+                "properties": {
+                    "report": {
+                        "default": null,
+                        "title": "Report",
+                        "type": "string"
+                    },
+                    "validation_status": {
+                        "default": null,
+                        "title": "Validation Status",
+                        "type": "string"
+                    },
+                    "citations": {
+                        "default": null,
+                        "items": {
+                            "type": "string"
+                        },
+                        "title": "Citations",
+                        "type": "array"
+                    }
+                },
+                "required": []
+            }
+        }
+    ],
+    "bindings": {
+        "version": "2.0",
+        "resources": []
+    }
+}
